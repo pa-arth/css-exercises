@@ -1,0 +1,16 @@
+.odd {
+    background-color: #fab6afa8;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#num {
+    color: #4160e1;
+    font-size: 36px;
+}
+.odd.number {
+    font-size: 24px;
+}
+#rand {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
